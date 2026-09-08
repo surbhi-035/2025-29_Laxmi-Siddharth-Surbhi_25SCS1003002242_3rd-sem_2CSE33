@@ -50,7 +50,7 @@ A simple tool for generating random passwords based on the required length and c
 
 
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 * **Python** — Programming language
 * **Tkinter** — GUI development
@@ -58,7 +58,7 @@ A simple tool for generating random passwords based on the required length and c
 * **VS Code** — Development environment
 * **GitHub** — Repository management
 
-## 🧠 Concepts Used
+##  Concepts Used
 
 * Variables & Data Types
 * Lists & Strings
